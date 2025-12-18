@@ -74,6 +74,10 @@ openssl x509 -req -in developer.csr -CA {CA серт вашего кластер
 3. **Создать Role (только просмотр логов и описания подов) и RoleBinding**
 4. **Проверить доступ**
 
+
+<img width="652" height="67" alt="image" src="https://github.com/user-attachments/assets/e6a1b5c1-395c-4ade-a09d-c57890cc0ca2" />
+
+
 ### **Что сдать на проверку**  
 - Манифесты:
   - `role-pod-reader.yaml`
