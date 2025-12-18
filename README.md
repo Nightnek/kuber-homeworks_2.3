@@ -22,6 +22,9 @@
 3. **Подключить веб-страницу** через ConfigMap
 4. **Проверить доступность**
 
+<img width="795" height="215" alt="image" src="https://github.com/user-attachments/assets/97dabff0-5ad2-4364-8a1a-d2435949a524" />
+
+
 ### **Что сдать на проверку**
 - Манифесты:
   - `deployment.yaml`
