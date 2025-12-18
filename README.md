@@ -46,6 +46,9 @@ openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
 3. **Настроить Ingress**
 4. **Проверить HTTPS-доступ**
 
+<img width="595" height="195" alt="image" src="https://github.com/user-attachments/assets/cf97cf81-88b7-4106-9846-7765331079b7" />
+
+
 ### **Что сдать на проверку**  
 - Манифесты:
   - `secret-tls.yaml`
